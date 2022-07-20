@@ -48,5 +48,5 @@ __3- Custo de Mão de Obra Por Estado__
 
 __4- Total de Vendas Geral e Matriz de Vendas__
 
-Além disso, pode ser interessante, se o CEO puder visualizar o total de vendas por estado e se as vendas estão acima ou abaixo da média. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. O CEO está avaliando se continua ou não com a venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de automóveis deste fabricante por ano e por estado.
+Além disso, pode ser interessante, se o CEO puder visualizar o __total de vendas por estado e se as vendas estão acima ou abaixo da média__. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. __O CEO está avaliando se continua ou não com a venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de automóveis deste fabricante por ano e por estado__.
 Seu trabalho é fazer isso acontecer!
