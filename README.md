@@ -2,7 +2,7 @@
 
 Esse repositório contém os meus estudos referente ao curso: Microsoft Power BI Para Data Science, Versão 2.0, disponibilizado pela Data Science Academy. 
 
-## Estudo de caso 1
+## Estudo de caso 1 (Estudo de caso 1.pbix)
 
 Você é Analista de Dados na empresa XYZ Corporation International, uma revendedora de automóveis de luxo com sede em São Paulo. A empresa começou sua operação no Brasil em 2016 e atua nos quatro estados da região sudeste, mais os estados do Paraná e Bahia.
 
