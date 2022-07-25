@@ -61,7 +61,7 @@ Em paralelo a isso, a empresa gostaria de ter diferentes visões das vendas real
 
 
 
-Coluna: Descrição
+**Coluna: Descrição**
 
 ID-Produto: Identificador único de cada produto
 
@@ -87,4 +87,6 @@ DataVenda: Data da venda
 
 ValorVenda: Valor da venda
 
-Haverá diversas reuniões para definição da estratégia de vendas e os relatórios poderão ser  extraídos  sob  demanda,  de  acordo  com  a  necessidade  dos  gestores. Por  conta  disso,  você deve criar um modelo de dados que permita a extração de relatórios a qualquer momento e que permita extrair dados por diferentes visões e ângulos. Seu trabalho é fazer isso acontecer!
+Haverá diversas reuniões para definição da estratégia de vendas e os relatórios poderão ser  extraídos  sob  demanda,  de  acordo  com  a  necessidade  dos  gestores. Por  conta  disso,  você deve criar um modelo de dados que permita a extração de relatórios a qualquer momento e que permita extrair dados por diferentes visões e ângulos. 
+
+Seu trabalho é fazer isso acontecer!
