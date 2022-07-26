@@ -92,6 +92,7 @@ Haverá diversas reuniões para definição da estratégia de vendas e os relat�
 Seu trabalho é fazer isso acontecer!
 
 -----------------------------------
+### Desenvolvimento do Estudo de caso 2
 
 ### Passos:
 
