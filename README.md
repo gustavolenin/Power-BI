@@ -51,7 +51,7 @@ __4- Total de Vendas Geral e Matriz de Vendas__
 Além disso, pode ser interessante, se o CEO puder visualizar o __total de vendas por estado e se as vendas estão acima ou abaixo da média__. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. __O CEO está avaliando se continua ou não com a venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de automóveis deste fabricante por ano e por estado__.
 Seu trabalho é fazer isso acontecer!
 
-## Estudo de caso 2 (Estudo de caso 2.pbix)
+## Estudo de caso 2 (Estudo de caso 2.pbix) - Obs: Estudo de caso em construção
 
 Você  é  Analista  de  Dados  na  empresa PontoMaximo,  uma  rede  de  varejo que  vende produtos eletrônicos e eletrodomésticos com lojas espalhadas por diversas cidades do Brasil. A empresa começou sua operação no Brasil em 2012 e atua nos quatro estados da região sudeste mais os estados do Paraná e Bahia.
 
@@ -90,3 +90,11 @@ ValorVenda: Valor da venda
 Haverá diversas reuniões para definição da estratégia de vendas e os relatórios poderão ser  extraídos  sob  demanda,  de  acordo  com  a  necessidade  dos  gestores. Por  conta  disso,  **você deve criar um modelo de dados que permita a extração de relatórios a qualquer momento e que permita extrair dados por diferentes visões e ângulos**. 
 
 Seu trabalho é fazer isso acontecer!
+
+-----------------------------------
+
+### Passos:
+
+**1º Passo:** Modelagem de Dados - Sabendo que o conjunto de dados estava organizado em uma única tabela, no primeiro momento foi realizada a separação em tabelas dimensão e tabela fato. Além disso, foi construído um modelo Star Schema para representar a relação entre as tabelas dimensão e a tabela fato. Para conectar estas tabelas são definidas as chaves em que as chaves primárias (PK - Primary Key) das tabelas dimensão entram como chave estrangeira (FK - Foreign Key) na tabela fato.
+
+<img src="https://github.com/gustavolenin/Power-BI/blob/main/Star_Schema_Estudo_de_caso_2.png" height="500" width="1200">
