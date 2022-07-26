@@ -95,6 +95,10 @@ Seu trabalho é fazer isso acontecer!
 
 ### Passos:
 
-**1º Passo:** Modelagem de Dados - Sabendo que o conjunto de dados estava organizado em uma única tabela, no primeiro momento foi realizada a separação em tabelas dimensão e tabela fato. Além disso, foi construído um modelo Star Schema para representar a relação entre as tabelas dimensão e a tabela fato. Para conectar estas tabelas são definidas as chaves em que as chaves primárias (PK - Primary Key) das tabelas dimensão entram como chave estrangeira (FK - Foreign Key) na tabela fato.
+**1º Passo: Modelagem de Dados**
+
+Sabendo que o conjunto de dados estava organizado em uma única tabela, no primeiro momento foi realizada a separação em tabelas dimensão e tabela fato. Além disso, foi construído um modelo Star Schema para representar a relação entre as tabelas dimensão e a tabela fato. Para conectar estas tabelas são definidas as chaves em que as chaves primárias (PK - Primary Key) das tabelas dimensão entram como chave estrangeira (FK - Foreign Key) na tabela fato.
+
+Uma observação importante é que no momento de construção das tabelas dimensão deve-se ter cuidado com as entradas duplicadas, neste caso foi necessária a **Limpeza dos Dados**.
 
 <img src="https://github.com/gustavolenin/Power-BI/blob/main/Star_Schema_Estudo_de_caso_2.png" height="500" width="1200">
