@@ -51,7 +51,7 @@ __4- Total de Vendas Geral e Matriz de Vendas__
 Além disso, pode ser interessante, se o CEO puder visualizar o __total de vendas por estado e se as vendas estão acima ou abaixo da média__. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. __O CEO está avaliando se continua ou não com a venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de automóveis deste fabricante por ano e por estado__.
 Seu trabalho é fazer isso acontecer!
 
-## Estudo de caso 2 (Estudo de caso 2.pbix) - Obs: Estudo de caso em construção
+## Estudo de caso 2 (Estudo de caso 2.pbix)
 
 Você  é  Analista  de  Dados  na  empresa PontoMaximo,  uma  rede  de  varejo que  vende produtos eletrônicos e eletrodomésticos com lojas espalhadas por diversas cidades do Brasil. A empresa começou sua operação no Brasil em 2012 e atua nos quatro estados da região sudeste mais os estados do Paraná e Bahia.
 
