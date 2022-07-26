@@ -87,6 +87,16 @@ DataVenda: Data da venda
 
 ValorVenda: Valor da venda
 
+Seu gerente precisa das seguintes informações:
+
+__1- Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas?__
+
+__2- Qual o total de vendas por estado e por categoria? Use um mapa.__
+
+__3- Qual o total de vendas por segmento?__
+
+__4- Qual segmento tem maior influência no valor médio de venda?__
+
 Haverá diversas reuniões para definição da estratégia de vendas e os relatórios poderão ser  extraídos  sob  demanda,  de  acordo  com  a  necessidade  dos  gestores. Por  conta  disso,  **você deve criar um modelo de dados que permita a extração de relatórios a qualquer momento e que permita extrair dados por diferentes visões e ângulos**. 
 
 Seu trabalho é fazer isso acontecer!
