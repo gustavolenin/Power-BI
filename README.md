@@ -113,3 +113,23 @@ Sabendo que o conjunto de dados estava organizado em uma única tabela, no prime
 Uma observação importante é que no momento de construção das tabelas dimensão deve-se ter cuidado com as entradas duplicadas, neste caso foi necessária a **Limpeza dos Dados**.
 
 <img src="https://github.com/gustavolenin/Power-BI/blob/main/Star_Schema_Estudo_de_caso_2.png" height="500" width="1200">
+
+Em seguida, foi construído o dashboard que pode ser acessado no arquivo Estudo de caso 2.pbix
+
+-----------------------------------
+
+## Estudo de caso 3 (Estudo_de_caso_3.pbix)
+
+Ainda no contexto de vendas, neste estudo de caso foi desenvolvido um dashboard guiado pelos seguintes objetivos:
+
+__1- Qual a média de vendas por dia durante o mês de março?__
+
+__2- Qual a margem de lucro por produto?__
+
+__3- Qual o valor de venda e preço custo por produto?__
+
+__4- Qual o KPI de margem de lucro?__
+
+O dashboard está disponível em Estudo_de_caso_3.pbix.
+
+-----------------------------------
