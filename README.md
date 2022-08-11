@@ -133,3 +133,28 @@ __4- Qual o KPI de margem de lucro?__
 O dashboard está disponível em Estudo_de_caso_3.pbix.
 
 -----------------------------------
+
+## Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos (Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos.pbix)
+
+
+**Coluna: Descrição**
+
+Sexo: Identifica o gênero
+
+Período: Informa a data
+
+Range_Idade: Faixa etária
+
+Total_Desempregados: Quantidade de desempregados
+
+Seu gerente precisa das seguintes informações:
+
+__1- Dashboard contendo o total de desempregados por ano, trimestre, mês e faixa etária.__
+
+__2- O Dashboard deverá conter filtros por gênero e faixa etária.__
+
+__3- Previsão do total de desempregados até o ano de 2022.__
+
+O dashboard está disponível em Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos.pbix.
+
+-----------------------------------
