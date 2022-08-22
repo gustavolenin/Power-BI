@@ -158,3 +158,40 @@ __3- Previsão do total de desempregados até o ano de 2022.__
 O dashboard está disponível em Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos.pbix.
 
 -----------------------------------
+
+## Dashboard Analítico - Geolocalização de clientes por saldo bancário (Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos.pbix)
+
+
+**Coluna: Descrição**
+
+Cidade: Nome da cidade
+
+Classificação: Categoria de classificação (baixo, médio, alto)
+
+Data: Data 
+
+ID Cliente: ID do cliente
+
+Idade: Idade do cliente
+
+Nome: Nome do cliente
+
+Sobrenome: Sobrenome do cliente
+
+Saldo: Saldo do cliente
+
+Sexo: Identifica o gênero
+
+Seu gerente precisa das seguintes informações:
+
+__1- Dashboard contendo o saldo por cidade contendo um mapa de calor com essa informação.__
+
+__2- O Dashboard deverá conter o saldo por idade e sexo.__
+
+__3- Dashboard deverá conter o saldo por classificação e saldo por sexo.__
+
+__4- Dashboard deverá conter uma segmentação por nome de cliente.__
+
+O dashboard está disponível em Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos.pbix.
+
+-----------------------------------
