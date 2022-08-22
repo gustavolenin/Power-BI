@@ -159,7 +159,7 @@ O dashboard está disponível em Dashboard Analítico - Evolução e Previsão d
 
 -----------------------------------
 
-## Dashboard Analítico - Geolocalização de clientes por saldo bancário (Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos.pbix)
+## Dashboard Analítico - Geolocalização de clientes por saldo bancário (Dashboard Analítico - Geolocalização de clientes.pbix)
 
 
 **Coluna: Descrição**
@@ -192,6 +192,6 @@ __3- Dashboard deverá conter o saldo por classificação e saldo por sexo.__
 
 __4- Dashboard deverá conter uma segmentação por nome de cliente.__
 
-O dashboard está disponível em Dashboard Analítico - Evolução e Previsão de Desemprego ao Longo dos Anos.pbix.
+O dashboard está disponível em Dashboard Analítico - Dashboard Analítico - Geolocalização de clientes.pbix.
 
 -----------------------------------
